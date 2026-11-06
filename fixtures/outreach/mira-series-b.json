@@ -1,0 +1,32 @@
+{
+  "id": "mira-series-b-email",
+  "leadId": "lead_mira_chen",
+  "channel": "email",
+  "smokeMessage": "Research lead_mira_chen and draft a short personalized outbound email. Save the draft with save_outreach_draft. Cite the Series B signal.",
+  "userMessage": "Write a personalized outbound email for Mira Chen at Northwind Analytics. Research first, then save_outreach_draft. Ground the opener in their Series B and data platform hiring. One CTA only.",
+
+  "mustCite": ["Series B", "data platform"],
+  "forbiddenClaims": ["SOC2", "HIPAA", "Fortune 500", "ISO 27001"],
+  "weakDraft": {
+    "leadId": "lead_mira_chen",
+    "channel": "email",
+    "subject": "Quick idea for Northwind",
+    "body": "Mira — congrats on the Series B. We help teams with data platform hiring. Worth a quick chat? Happy to send a deck, or we could book 30 minutes next week if easier?",
+    "cta": "Open to connecting this week?",
+    "citedSignals": [
+      "Closed a $42M Series B led by Horizon Capital",
+      "Open roles: Senior Data Platform Engineer, Analytics Engineer"
+    ]
+  },
+  "goldenDraft": {
+    "leadId": "lead_mira_chen",
+    "channel": "email",
+    "subject": "Series B + data platform hiring at Northwind",
+    "body": "Mira — saw Northwind close the Series B with Horizon and open Senior Data Platform Engineer roles while the lakehouse migration is underway. We help GTM partners turn those hiring and funding signals into grounded outbound so eng leaders spend less time on manual prospecting handoffs.",
+    "cta": "Open to a 15-minute chat this week?",
+    "citedSignals": [
+      "Closed a $42M Series B led by Horizon Capital",
+      "Open roles: Senior Data Platform Engineer, Analytics Engineer"
+    ]
+  }
+}

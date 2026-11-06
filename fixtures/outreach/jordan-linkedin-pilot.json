@@ -1,0 +1,18 @@
+{
+  "id": "jordan-linkedin-pilot",
+  "leadId": "lead_jordan_blake",
+  "channel": "linkedin",
+  "userMessage": "Draft a LinkedIn outreach message for Jordan Blake at Harbor Retail. Research the lead, personalize on the same-day delivery pilot, then save_outreach_draft on channel linkedin.",
+  "mustCite": ["same-day", "pilot"],
+  "forbiddenClaims": ["Series B", "SOC2"],
+  "goldenDraft": {
+    "leadId": "lead_jordan_blake",
+    "channel": "linkedin",
+    "body": "Jordan — noticed Harbor's same-day delivery pilot hit a 22% conversion lift in three metros. We help growth teams turn live pilot proof into personalized merchant/partner outreach without generic blasts.",
+    "cta": "Open to a short LinkedIn chat on partner outreach for the pilot markets?",
+    "citedSignals": [
+      "Launched a same-day delivery pilot in three metro markets",
+      "Cited 22% lift in conversion for stores in the pilot cohort"
+    ]
+  }
+}

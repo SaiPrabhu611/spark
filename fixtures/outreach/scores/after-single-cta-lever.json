@@ -1,0 +1,65 @@
+{
+  "stamp": "after-single-cta-lever",
+  "rows": [
+    {
+      "label": "mira-weak",
+      "stacked": true,
+      "personalization": 1,
+      "tone": 1,
+      "cta": 0.2,
+      "grounding": 1,
+      "composite": 0.84,
+      "askCount": 3,
+      "details": [
+        "personalization=1",
+        "cta=0.2 askCount=3 stacked=true",
+        "grounding=1"
+      ]
+    },
+    {
+      "label": "mira-golden",
+      "stacked": false,
+      "personalization": 1,
+      "tone": 1,
+      "cta": 1,
+      "grounding": 1,
+      "composite": 1,
+      "askCount": 1,
+      "details": [
+        "personalization=1",
+        "cta=1 askCount=1 stacked=false",
+        "grounding=1"
+      ]
+    },
+    {
+      "label": "jordan-golden",
+      "stacked": false,
+      "personalization": 1,
+      "tone": 1,
+      "cta": 1,
+      "grounding": 1,
+      "composite": 1,
+      "askCount": 1,
+      "details": [
+        "personalization=1",
+        "cta=1 askCount=1 stacked=false",
+        "grounding=1"
+      ]
+    },
+    {
+      "label": "priya-golden",
+      "stacked": false,
+      "personalization": 1,
+      "tone": 1,
+      "cta": 1,
+      "grounding": 1,
+      "composite": 1,
+      "askCount": 1,
+      "details": [
+        "personalization=1",
+        "cta=1 askCount=1 stacked=false",
+        "grounding=1"
+      ]
+    }
+  ]
+}

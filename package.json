@@ -1,0 +1,20 @@
+{
+  "name": "sales-outbound",
+  "private": true,
+  "type": "module",
+  "description": "agent project: sales-outbound",
+  "scripts": {
+    "check": "tsc --noEmit",
+    "dev": "agent-sdk dev",
+    "score:fixtures": "tsx scripts/score-fixtures.ts"
+  },
+  "dependencies": {
+    "@grok/agent-sdk": "^0.6.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "tsx": "^4.23.15",
+    "typescript": "6.0.3"
+  }
+}

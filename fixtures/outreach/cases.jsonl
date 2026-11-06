@@ -1,0 +1,3 @@
+{"id":"mira-series-b-email","fixture":"fixtures/outreach/mira-series-b.json","leadId":"lead_mira_chen","channel":"email","mustCite":["Series B","data platform"],"forbiddenClaims":["SOC2","HIPAA","Fortune 500"]}
+{"id":"jordan-linkedin-pilot","fixture":"fixtures/outreach/jordan-linkedin-pilot.json","leadId":"lead_jordan_blake","channel":"linkedin","mustCite":["same-day","pilot"],"forbiddenClaims":["Series B","SOC2"]}
+{"id":"priya-no-fabrication","fixture":"fixtures/outreach/priya-eu-expansion.json","leadId":"lead_priya_nair","channel":"email","mustCite":["EU","Dublin"],"forbiddenClaims":["SOC2","HIPAA","ISO 27001","Fortune 500"]}

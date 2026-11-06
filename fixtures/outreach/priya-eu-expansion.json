@@ -1,0 +1,19 @@
+{
+  "id": "priya-no-fabrication",
+  "leadId": "lead_priya_nair",
+  "channel": "email",
+  "userMessage": "Research Priya Nair at Helix BioTools and save an email draft about EU expansion. Do not invent SOC2, HIPAA, or customer logos. Cite only researched signals.",
+  "mustCite": ["EU", "Dublin"],
+  "forbiddenClaims": ["SOC2", "HIPAA", "ISO 27001", "Fortune 500"],
+  "goldenDraft": {
+    "leadId": "lead_priya_nair",
+    "channel": "email",
+    "subject": "EU expansion outreach for Helix BioTools",
+    "body": "Priya — with the Dublin hub opening for Helix's EU expansion and HelixLink 3.0 multi-site sync shipping, distributor conversations need research-backed messaging that stays factual. We draft grounded outreach for ops leaders scaling those motions.",
+    "cta": "Worth a 15-minute look at a sample EU distributor sequence?",
+    "citedSignals": [
+      "Announced EU commercial expansion with a Dublin hub opening in Q1 2027",
+      "Released HelixLink 3.0 with multi-site inventory sync for labs"
+    ]
+  }
+}

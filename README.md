@@ -1,10 +1,3 @@
-# spark — sales-outbound agent
-
-GitHub home for Sai Kalva's sales outbound Agent SDK agent.
-Preferred model: `qwen/qwen3.8-max-prime`.
-
----
-
 # sales-outbound
 
 Agent SDK sales outbound agent: research mock CRM leads, then draft personalized
